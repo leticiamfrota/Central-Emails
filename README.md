@@ -17,12 +17,10 @@ pip install -r requirements.txt
 
 4. Executar a Aplicação
 Inicie a aplicação com o comando streamlit run: \
-streamlit run central_emails.py
-
-
-
-
+streamlit run central_emails.py \
 A aplicação será aberta automaticamente no seu navegador padrão.
+
+### Você também pode acessar o aplicativo através do navegador, neste link: [Central de Emails](https://centralemails.streamlit.app/)
 
 ### Estrutura do Projeto
 A estrutura de arquivos do projeto é organizada da seguinte forma:
