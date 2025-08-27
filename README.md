@@ -8,7 +8,7 @@ Siga estes passos para configurar e executar o projeto na sua máquina local:
 Certifique-se de que você tem o Python 3.9 ou superior instalado. 
 
 2. Clonar o Repositório \
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/leticiamfrota/Central-Emails.git) \
+git clone https://github.com/leticiamfrota/Central-Emails.git \
 cd SEU-REPOSITORIO
 
 3. Instalar as Dependências \
