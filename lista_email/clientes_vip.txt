@@ -1,0 +1,1 @@
+cliente.vip1@email.com, cliente.vip2@email.com, cliente.vip3@email.com

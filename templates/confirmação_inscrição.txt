@@ -1,0 +1,12 @@
+Olá [NOME DO DESTINATÁRIO],
+
+Muito obrigado pela sua inscrição! Confirmamos que a sua participação no evento "[NOME DO EVENTO]" foi registrada com sucesso.
+
+Você receberá um e-mail separado com mais detalhes sobre a agenda, localização e outras informações importantes em breve.
+
+Estamos ansiosos para vê-lo(a) lá!
+
+Atenciosamente,
+
+[SEU NOME]
+[SUA EMPRESA]
